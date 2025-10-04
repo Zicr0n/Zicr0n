@@ -1,25 +1,5 @@
 ## Hello World 👋
 ```
-                 -`                     zicron@zicron
-                 .o+`                   -------------
-                `ooo/                   yeah what else is there to put here
-               `+oooo:                  
-              `+oooooo:                  
-              -+oooooo+:                 
-            `/:-:++oooo+:                
-           `/++++/+++++++:               
-          `/++++++++++++++:              
-         `/+++ooooooooooooo/`            
-        ./ooosssso++osssssso+`           
-       .oossssso-````/ossssss+`          
-      -osssssso.      :ssssssso.         
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-                                
-  `/ossssso+/:-        -:/+osssso+-                              
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-
 /==============================================================================\
 || __ __  __  _  ____  ____ _____                                             ||
 |||  |  ||  \| || _) \| ===|| () )                                            ||
